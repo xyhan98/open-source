@@ -18,9 +18,10 @@
 ### Artificial Intelligence
 | Offered by | Year | Instructor | Course Name | YouTube |
 | ---------- | ---- | ---------- | ----------- | ------- |
-| UC Berkeley | Summer 2016 | Davis Foote<br>Jacob Andreas | [CS 188 -- Introduction to Artificial Intelligence]() | [Video Lectures](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos) |
+| UC Berkeley | Summer 2016 | Davis Foote<br>Jacob Andreas | CS 188 -- Introduction to Artificial Intelligence | [Video Lectures](https://www.youtube.com/channel/UCHBzJsIcRIVuzzHVYabikTQ/videos) |
 | UC Berkeley | Fall 2018 | Pieter Abbeel<br> Dan Klein | [CS 188 -- Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) | [Video Lectures](https://www.youtube.com/channel/UCEXfTs0jS6D_0nwf1nAeF8A/videos) |
 | Stanford | Autumn 2021 | Percy Liang<br>Dorsa Sadigh | [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/autumn2021/) | [Video Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2) |
+
 
 ### Theory of Computation
 
