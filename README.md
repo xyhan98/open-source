@@ -4,6 +4,7 @@
 | ---------- | ---- | ---------- | ----------- | ------- |
 | MIT | Spring 2005 | Gilbert Strang | [18.06 Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | [Video Lectures](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) |
 | MIT | Spring 2010 | Gilbert Strang | [Highlights of Calculus](https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/) | [Video Lectures](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318) |
+| CMU | Spring 2021 | Po-Shen Loh | [21-228: Discrete Mathematics](https://www.math.cmu.edu/~ploh/2021-228.shtml) | [Video Lectures](https://www.youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM) |
 
 
 ### Machine Learning & Deep Learning
