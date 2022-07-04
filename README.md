@@ -14,6 +14,7 @@
 | Stanford | Autumn 2018 | Andrew Ng | [CS229: Machine Learning](https://cs229.stanford.edu/syllabus-autumn2018.html) | [Video Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
 | Stanford | Winter 2016 | Fei-Fei Li<br>Andrej Karpathy<br>Justin Johnson| [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/2016/) | [Video Lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
 | Stanford | Winter 2019<br>Winter 2021 | Christopher Manning | [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) | [2019 Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)<br>[2021 Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) |
+| Stanford | Winter 2019 | Emma Brunskill | [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/CS234Win2019/index.html) | [Video Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) |
 
 
 ### Artificial Intelligence
